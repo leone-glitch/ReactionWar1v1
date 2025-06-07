@@ -12,7 +12,7 @@ ReactionWar is a school project created with Arduino in c, where you have to gai
 ## Connecting the display and buttons/leds to arduino
 ![connection](image/connection.png)
 ## Components: 
- * a bunch of Arduino cables
+ * A bunch of Arduino cables
  * 5 Resistors(3 x 220ohm, 2 x 10k ohm)
  * Potentiometer 250k ohm
  * 2 Button ( 10k ohm resistors)
