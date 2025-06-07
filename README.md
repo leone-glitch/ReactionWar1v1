@@ -10,4 +10,5 @@ ReactionWar is a school project created with Arduino in c, where you have to gai
   * If your reaction time is between 500ms and 200ms: 8000 points
   * If your reaction time is less than 200ms: 10000 points
 ## Connecting the display and buttons/leds to arduino
-![connection](images/connection.png)
+![connection](image/connection.png)
+
